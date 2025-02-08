@@ -7,7 +7,7 @@ from groq import Groq
 load_dotenv()
 
 st.set_page_config(page_icon="💬", layout="wide",
-                   page_title="Groq Goes Brrrrrrrr...")
+                   page_title="Groq Chatbot")
 
 
 def icon(emoji: str):
