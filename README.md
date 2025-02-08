@@ -43,7 +43,7 @@ It is blazing FAST; try it and see! 🏎️ 💨 💨 💨
   Navigate to the app's directory and run:
 
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 
 ## Usage
